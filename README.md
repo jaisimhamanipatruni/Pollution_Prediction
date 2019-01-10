@@ -1,2 +1,1 @@
-# Pollution_Prediction
-Pollution Forecast system using Ai
+# Pollution-level-forecasting
